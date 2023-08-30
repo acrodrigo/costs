@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": [
+        "Projeto "
+      ],
+      "budget": [
+        "15000"
+      ],
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [
+        {
+          "name": "Serviço",
+          "cost": "1000",
+          "description": "Descrição do serviço",
+          "id": "ffdeab05-e69c-4f65-af32-e3f96d157bfe"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    }
+  ]
+}
